@@ -1,5 +1,5 @@
 {
-  "name": "form-builder",
+  "name": "@himadhar/form-builder",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/himadhar"
   },
