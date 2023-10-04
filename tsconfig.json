@@ -17,7 +17,7 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
-  "declarationDir": "types",
+  "outDir": "types",
   "declarationMap": true,
   "rootDir": "src",
   "include": ["src"]
