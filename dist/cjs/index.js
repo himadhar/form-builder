@@ -3700,9 +3700,9 @@ if (process.env.NODE_ENV === 'production') {
   jsxRuntime.exports = reactJsxRuntime_development;
 }
 
-var Button = function (props) {
+var FormButton = function (props) {
     return jsxRuntime.exports.jsx("h1", { children: props.label });
 };
 
-exports.Button = Button;
+exports.Button = FormButton;
 //# sourceMappingURL=index.js.map

@@ -3,6 +3,6 @@ import { FC } from 'react';
 type FButtonProps = {
     label: string;
 };
-declare const Button: FC<FButtonProps>;
+declare const FormButton: FC<FButtonProps>;
 
-export { Button };
+export { FormButton as Button };

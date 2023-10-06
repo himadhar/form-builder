@@ -1,11 +1,10 @@
 {
-  "name": "@himadhar/form-builder",
+  "name": "@himadhar_h/form-builder",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/himadhar"
+    "registry": "https://registry.npmjs.org/"
   },
   "description": "Form builder specific components library built with MUI as base design system",
   "version": "0.0.1",
-  "private": true,
   "source": "src/index.ts",
   "scripts": {
     "rollup": "rollup -c"
